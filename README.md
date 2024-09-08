@@ -1,7 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-### R.ARAVIND
-### 212223230019
+### Developed By : GANESH R
+### Register No : 212222240029
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -110,7 +110,8 @@ while True:
 
 ## Output:
 
-![Screenshot 2024-09-07 223455](https://github.com/user-attachments/assets/4d92c312-2376-4a9f-8235-317e9c4f9e0e)
+![Screenshot 2024-09-08 212058](https://github.com/user-attachments/assets/5021e4bc-01b2-49f1-9a3a-41729d4351b9)
+
 
 ## Result:
 
